@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noEmitOnError": true,
+        "sourceMap": true
+    },
+    "include": [
+        "Atividade01/**/*",
+        "Atividade02/**/*",
+        "Exemplos/**/*"
+    ]
+}
