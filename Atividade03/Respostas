@@ -1,0 +1,38 @@
+1.
+R = A classe é um modelo, um planejamento, tal como a maquete de uma casa. 
+O objeto seria a classe materializada, ou seja, um objeto com os devidos atributos qualificados.
+
+2.
+R = Atributos são as propriedades de um objeto. 
+Métodos são as ações que um objeto pode realizar. 
+Os objetos são características definidas pelas classes.
+
+3.
+                                        Sistema importante                        Sistema que nao e importante
+    Peso                                Fisica                                    hidreletricas
+    Tipo de CNH                         Detran                                    corpo humano                                            
+    Tipo Sanguineo                      Hemopi                                    jogos
+    Habilidade destra                   Sistemas motores do corpo                 comercios
+    Percentual de Gordura               IMC                                       lâmpadas  
+    Saldo em conta                      Banco                                     cafeteria
+    Etinia                              IBGE                                      familia                                         
+
+4.
+    a.sim, pelo fato de que cada conta teria um controle mais especifico de cada conta do banco
+    b.
+
+
+5.
+R = Alunos,Professores,Reitores,Zeladores,Monitores
+
+6.Sistema para inspirado em algum tipo de jogo rpg
+
+R = Personagem principal (atributos -> Raça, Classe, Caracteristicas fisicas /// metodos -> Andar, Correr, Atacar, Trocar itens),
+npcs(atributos -> Raça, Classe, Caracteristicas fisicas /// metodo -> Vender, Conversar, Missões),
+vilões(atributo -> Raça, Classe, Caracteristicas fisicas, maldade ///metodo -> Lutar, Conversar)
+
+7.
+
+8.
+
+9.
