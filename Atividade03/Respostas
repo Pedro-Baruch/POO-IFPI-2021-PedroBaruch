@@ -31,7 +31,7 @@ R = Personagem principal (atributos -> Raça, Classe, Caracteristicas fisicas //
 npcs(atributos -> Raça, Classe, Caracteristicas fisicas /// metodo -> Vender, Conversar, Missões),
 vilões(atributo -> Raça, Classe, Caracteristicas fisicas, maldade ///metodo -> Lutar, Conversar)
 
-7.
+7.u
 
 8.
 
