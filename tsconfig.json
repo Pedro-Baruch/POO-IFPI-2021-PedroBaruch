@@ -5,9 +5,10 @@
         "sourceMap": true
     },
     "include": [
-        "Atividade01/**/*",
-        "Atividade02/**/*",
-        "Atividade03/**/*",
+        "TS_Exercicio01/**/*",
+        "TS_Exercicio02/**/*",
+        "TS_Exercicio02/**/*",
+        "POO_Exercicio04/**/*",
         "Exemplos/**/*"
     ]
 }
