@@ -10,7 +10,7 @@ class Conta {
         this.saldo = this.saldo + valor
     }
 
-    consultarSaldo() : number{
+    get consultarSaldo(){
         return this.saldo
     }
 
