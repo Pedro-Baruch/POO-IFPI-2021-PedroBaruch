@@ -1,10 +1,10 @@
 1.
-R = A classe é um modelo, um planejamento, tal como a maquete de uma casa. 
+R = A classe é um exemplo, uma elaboração, como a maquete de uma casa. 
 O objeto seria a classe materializada, ou seja, um objeto com os devidos atributos qualificados.
 
 2.
-R = Atributos são as propriedades de um objeto. 
-Métodos são as ações que um objeto pode realizar. 
+R = Atributos são as características de um objeto, essas características também são conhecidas como variáveis.
+Métodos são as ações que os objetos podem exercer quando solicitados, onde podem interagir e se comunicarem com outros objetos.
 Os objetos são características definidas pelas classes.
 
 3.
@@ -18,12 +18,12 @@ Os objetos são características definidas pelas classes.
     Etinia                              IBGE                                      familia                                         
 
 4.
-    a.sim, pelo fato de que cada conta teria um controle mais especifico de cada conta do banco
-    b.
+    a.sim, para se ter um controle melhor dos usuários
+    b.não, classes
 
 
 5.
-R = Alunos,Professores,Reitores,Zeladores,Monitores
+R = Alunos,Professores,Reitores,Diretores,Monitores
 
 6.Sistema para inspirado em algum tipo de jogo rpg
 
@@ -31,7 +31,7 @@ R = Personagem principal (atributos -> Raça, Classe, Caracteristicas fisicas //
 npcs(atributos -> Raça, Classe, Caracteristicas fisicas /// metodo -> Vender, Conversar, Missões),
 vilões(atributo -> Raça, Classe, Caracteristicas fisicas, maldade ///metodo -> Lutar, Conversar)
 
-7.u
+7.
 
 8.
 
