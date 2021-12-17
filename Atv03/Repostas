@@ -1,0 +1,28 @@
+1. R= Classe é a planta, é o planejamento, é o modelo a ser seguido para que a casa seja construída dentro de certas características. 
+Já o objeto é a casa. É algo concreto, algo físico. Nele os elementos estão de fato presentes ali. É algo palpável
+
+2. R= Os atributos são as características de um objeto, essas características também são conhecidas como variáveis, 
+utilizando o exemplo dos cães, temos alguns atributos, tais como: cor, peso, altura.
+Os métodos são as ações que os objetos podem exercer quando solicitados, onde podem interagir e se comunicarem com outros objetos, 
+utilizando o exemplo dos cães, temos alguns exemplos: latir, correr, pular.
+
+3.  
+Atributo                       Sistema em que é importante          Sistema em que não é importante
+
+Peso                           Hospital                             Detran
+Tipo de CNH                    Leis de trânsito                     Fabricas
+Tipo Sanguíneo                 Exame de sangue                      Usina
+Habilidade destra              Sistema nervoso                      Lixão
+Percentual de gordura          Hospital                             Jogos
+Saldo em conta                 Banco                                Comércio
+Etinia                         Documentos                           Usina nucluar
+
+4. a)Sim
+   b)Não seria interessante. O sistema de classes
+
+5. Professor,Monitor,Diretor,Reitor,Aluno
+
+6. Exemplo jogo de carro
+
+carro (Atributo nome, modelo, tipo, veloMax, VeloMin /// Acelerar, freiar, derrapar)
+Pista (Atributo localização, tipo, Seca, Molhada, angulação /// Curva, Subida, Descida)
