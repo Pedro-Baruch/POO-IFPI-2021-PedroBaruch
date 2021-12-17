@@ -1,0 +1,34 @@
+1.
+R = A classe é um exemplo, uma elaboração, como a maquete de uma casa. 
+O objeto seria a classe materializada, ou seja, um objeto com os devidos atributos qualificados.
+
+2.
+R = Atributos são as características de um objeto, essas características também são conhecidas como variáveis.
+Métodos são as ações que os objetos podem exercer quando solicitados, onde podem interagir e se comunicarem com outros objetos.
+Os objetos são características definidas pelas classes.
+
+3.
+                                        Sistema importante                        Sistema que nao e importante
+    Peso                                Fisica                                    TSE
+    Tipo de CNH                         Leis de trânsito                          corpo humano                                            
+    Tipo Sanguineo                      Exames de sangue                          jogos
+    Habilidade destra                   Sistemas nervoso                          fabricas
+    Percentual de Gordura               IMC                                       usina nuclear  
+    Saldo em conta                      Banco                                     loja de convência
+    Etinia                              IBGE                                      policia                                         
+
+4.
+    a.sim, para se ter um controle melhor dos usuários
+    b.não, classes
+    
+5.
+R = Alunos,Professores,Reitores,Diretores,Monitores
+
+6.Sistema para inspirado em algum tipo de jogo rpg
+
+R = Personagem principal (atributos -> Raça, Classe, Caracteristicas fisicas /// metodos -> Andar, Correr, Atacar, Trocar itens),
+npcs(atributos -> Raça, Classe, Caracteristicas fisicas /// metodo -> Vender, Conversar, Missões),
+vilões(atributo -> Raça, Classe, Caracteristicas fisicas ///metodo -> Lutar, Conversar)
+Animais(atributo -> Raça, Caracteristicas fisicas /// metodo -> barulhos, fazerCarinho)
+Casas(atributo -> tamanho, preço, localização /// metodo -> compra, venda)
+Economia(atributo -> moeda /// valor, troca, compra, venda)

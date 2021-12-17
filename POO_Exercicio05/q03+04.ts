@@ -19,7 +19,7 @@ class Conta {
         contaDestino.depositar(valor)
     }
 
-    Numero(){
+    get Numero(){
         return this.numero
     }    
 }
@@ -29,7 +29,7 @@ class Banco {
     private contas : Conta[] = []
 
     inserir(conta : Conta){
-        let numero : string = conta.Numero()
+        let numero : string = conta.Numero
         let boolean : boolean
 
         if(this.contas.length == 0){
@@ -37,7 +37,7 @@ class Banco {
             boolean = true
         }else{
             for(let i : number = 0; i < this.contas.length ; i++){
-                if(numero == this.contas[i].Numero()){
+                if(numero == this.contas[i].Numero){
                     boolean = true
                     console.log("Conta Existente")
                 }else{
@@ -55,7 +55,7 @@ class Banco {
         let contaConsultada: Conta
 
         for(let conta of this.contas){
-            if(conta.Numero() == numero){
+            if(conta.Numero == numero){
                 contaConsultada = conta
             }
         }
@@ -67,7 +67,7 @@ class Banco {
         let indice : number
 
         for(let i : number = 0; i < this.contas.length; i++){
-            if(this.contas[i].Numero() == numero){
+            if(this.contas[i].Numero == numero){
                 indice = i
             }
         }
@@ -76,7 +76,7 @@ class Banco {
     }
 
     alterar(conta: Conta){
-        let indice: number = this.consultarIndice(conta.Numero())
+        let indice: number = this.consultarIndice(conta.Numero)
 
         if(indice != -1){
             this.contas[indice] = conta 
