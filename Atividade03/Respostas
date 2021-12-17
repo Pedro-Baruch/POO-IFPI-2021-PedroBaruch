@@ -29,10 +29,7 @@ R = Alunos,Professores,Reitores,Diretores,Monitores
 
 R = Personagem principal (atributos -> Raça, Classe, Caracteristicas fisicas /// metodos -> Andar, Correr, Atacar, Trocar itens),
 npcs(atributos -> Raça, Classe, Caracteristicas fisicas /// metodo -> Vender, Conversar, Missões),
-vilões(atributo -> Raça, Classe, Caracteristicas fisicas, maldade ///metodo -> Lutar, Conversar)
-
-7.
-
-8.
-
-9.
+vilões(atributo -> Raça, Classe, Caracteristicas fisicas ///metodo -> Lutar, Conversar)
+Animais(atributo -> Raça, Caracteristicas fisicas /// metodo -> barulhos, fazerCarinho)
+Casas(atributo -> tamanho, preço, localização /// metodo -> compra, venda)
+Economia(atributo -> moeda /// valor, troca, compra, venda)
