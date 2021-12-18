@@ -21,7 +21,11 @@ class Conta {
 
     get Numero(){
         return this.numero
-    }    
+    }
+    
+    get Saldo(){
+        return this.saldo
+    }
 }
 
 class Banco {
